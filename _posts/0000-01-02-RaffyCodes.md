@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Rafael Marrero is a Meme Lord.
+
 Use the left arrow to go back!
